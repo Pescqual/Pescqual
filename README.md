@@ -3,4 +3,4 @@
 
 ---
 
-<img align='center' src='https://www.fiverr.com/eugeniannu/make-a-pixel-art-gif' width='200'>
+<img align='center' src='https://user-images.githubusercontent.com/87731208/177434745-3c3d322d-46c5-47a7-bc6b-4d5c3f48533f.gif' width='200'>
