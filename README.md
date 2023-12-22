@@ -3,10 +3,19 @@
 
 :hammer_and_pick: Node Operator and Builder @ [Chandra Station](https://chandrastation.com)
 -   :pencil2: Busy Validating the Cosmos & building tooling :)
+-   :pencil: Proficient in front end UX/UI (React Jsx, Tailwind css)
+
+---
+## Notable Contributions:
+**Frontend**
+* [Playmos App](https://github.com/playmos-labs/playmos) - React/Tailwind
+
+**Shell**
+* [Validator Automation App](https://github.com/ChandraStation/Cosmos-Node-Automation) - Bash
+---
 
 Get in Touch
 - Twitter: https://twitter.com/pescqual
-
 
 ---
 
