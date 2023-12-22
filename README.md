@@ -9,7 +9,8 @@
 ## Notable Contributions:
 **Frontend**
 * [Playmos App](https://github.com/playmos-labs/playmos) - React/Tailwind
-
+* [Althea App](https://github.com/chalabi2/althea-app) - React/ChakraUI
+  
 **Shell**
 * [Validator Automation App](https://github.com/ChandraStation/Cosmos-Node-Automation) - Bash
 ---
